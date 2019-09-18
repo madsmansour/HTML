@@ -1,0 +1,55 @@
+
+/*This is a CSS comment-line!*/
+
+body {
+    background-color:burlywood;
+        width: 800px;
+        margin: 0 auto;
+}
+footer {
+    width: 800px;
+    margin: 0 auto;
+}
+p{
+    color: black;
+    font-family: fantasy;
+    font-size: 25px;
+}
+
+body {
+        background-color: burlywood;
+}
+
+h1 {
+    font-family: fantasy;
+    font-size: 50px;
+    color:black;
+}
+h2 {
+    font-family: fantasy;
+    font-size: 40px;
+    color:black;
+}
+strong{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: black;
+}
+    button {
+        width: 5vw;
+        color: purple;
+        font-size: 3vw;
+    }
+
+input {
+    width: 352px;
+    height: 20px;
+    color: purple;
+    animation-fill-mode: backwards;
+    border: dotted red;
+}
